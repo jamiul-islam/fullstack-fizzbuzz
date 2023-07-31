@@ -31,6 +31,11 @@ app.get('/fizzbuzz', (req: Request, res: Response) => {
   res.json(numbers);
 });
 
+// welcome route
+app.get('/', (req: Request, res: Response) => {
+  res.send('Welcome to the fizzbuzz api');
+});
+
 // testing
 app.listen(config.port, () => {
   console.log(`api is running on port: ${config.port}`);
