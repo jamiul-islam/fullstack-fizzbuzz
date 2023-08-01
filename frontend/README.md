@@ -1,6 +1,6 @@
 # FizzBuzz Frontend
 
-[👉 live site](https://fizzbuzz-frontend-lucifer1112k.vercel.app)
+[👉 live site](https://fizzbuzz-frontend.vercel.app)
 
 ## Get Started
 
