@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div className="flex mb-32 text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
-      <p>made with ❤️ from bangladesh</p>
+      <p>made with ❤️ in bangladesh</p>
     </div>
   );
 };
